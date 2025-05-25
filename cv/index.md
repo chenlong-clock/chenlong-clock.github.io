@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Chenlong's Vitae"
 permalink: /cv/
 author_profile: true
