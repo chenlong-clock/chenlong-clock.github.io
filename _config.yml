@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chenlong Zhang (张晨龙)"
+  name             : "Chenlong Zhang<br>(张晨龙)"
   avatar           : "images/avatar.png"
   bio              : "Master student at Institute of Automation, Chinese Academy of Sciences."
   location         : "Beijing, China"
-  employer         : "Institute of Automation, Chinese Academy of Sciences"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qnOoipoAAAAJ"
   email            : "zhangchenlong2023@ia.ac.cn"
