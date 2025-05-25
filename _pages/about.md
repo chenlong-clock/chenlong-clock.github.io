@@ -28,7 +28,7 @@ I am now a second-year master student at the Natural Language Processingh and Kn
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/500x300.png' alt="RULE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/RULE.png' alt="RULE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality**](https://github.com/chenlong-clock/RULE-Unlearn)  
@@ -37,7 +37,7 @@ I am now a second-year master student at the Natural Language Processingh and Kn
 Proposes a Reinforcement Learning-based unlearning method using boundary optimization with minimal forget data (12%) and synthetic queries (8%). Introduces *naturalness* as a new evaluation dimension, and demonstrates Pareto-optimality between forgetting and retention.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/android-chrome-192x192.png' alt="DTELS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/DTELS.png' alt="DTELS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DTELS: Towards Dynamic Granularity of Timeline Summarization**](https://aclanthology.org/2025.naacl-long.136.pdf)  
@@ -46,7 +46,7 @@ Proposes a Reinforcement Learning-based unlearning method using boundary optimiz
 Introduces a new task of timeline summarization controllable by granularity levels, along with the DTELS-Bench dataset (543 topics, 55k articles, 3 granularity levels). Proposes event-centric metrics and evaluates LLMs' struggles with temporal consistency.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/500x300.png' alt="CFED" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/CFED.png' alt="CFED" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Continual Few-shot Event Detection via Hierarchical Augmentation Networks**](https://github.com/chenlong-clock/CFED-HANet)  
@@ -66,7 +66,7 @@ Proposes HANet, which enables continual few-shot event detection via one-exempla
 # 🎤 Academic Services
 - Task Co-organizer, **SemEval 2026** Shared Task: *Abductive Event Reasoning: Towards Real-World Event Causal Inference for Large Language LLMs*
 - Task Organizer, **CCKS 2025** Shared Task: *Event Timeline Generation for Social Media*
-- Reviewer for **NLPCC 2025**
+- Conference Reviewer: **NLPCC 2025**
 
 
 # 📖 Educations
