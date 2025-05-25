@@ -1,19 +1,17 @@
 ---
 layout: default
-title: "Chenlong's Vitae"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
 
-<div style="margin-top: 1em; margin-bottom: 2em;">
-  <iframe 
-    src="/assets/pdf/Chenlong_CV.pdf" 
-    width="100%" 
-    height="1000px" 
-    style="border: none;">
-  </iframe>
-</div>
+<iframe 
+  src="/assets/pdf/Chenlong_CV.pdf" 
+  width="100%" 
+  height="1000px" 
+  style="border: none; box-shadow: 0 0 4px rgba(0,0,0,0.1); border-radius: 4px;">
+</iframe>
 
-<p>
-📄 <a href="/assets/pdf/Chenlong_CV.pdf" target="_blank">Download the PDF</a>
+<p style="margin-top: 1em;">
+📄 You can also <a href="/assets/pdf/Chenlong_CV.pdf" target="_blank">download the PDF</a>.
 </p>
