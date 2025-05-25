@@ -85,7 +85,9 @@ I actively serve in the NLP community as a shared task organizer and reviewer.
 - *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
 
 
-<p align="center">
-🌍 <b>Visitor Map</b><br>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=F5iYzRlinAOcB7WZkENoRUksbcZwj3beEiPDfDk1OMM"></script>
-</p>
+<div style="width: 250px; margin: 2em auto;">
+  <p align="center" style="font-weight: bold;">🌍 Visitor Map</p>
+  <script type="text/javascript" id="clstr_globe" 
+    src="//clustrmaps.com/globe.js?d=F5iYzRlinAOcB7WZkENoRUksbcZwj3beEiPDfDk1OMM">
+  </script>
+</div>
