@@ -18,17 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am now a second-year master student at the Laboratory of Language and Knowledge Computing, Institute of Automation, Chinese Academy of Sciences (expected to graduate in June 2026), advised by Prof. <a href='https://people.ucas.ac.cn/~yubochen'>Yubo Chen(陈玉博)</a> and Prof. <a href='https://people.ucas.ac.cn/~zhaojun'>Jun Zhao(赵军)</a>. Currently, I am working on LLM Unlearning and RL and I am also intereted in LLM Continual Learning and Cmoplex Event Analysis.
+I am now a second-year master student at the Natural Language Processingh and Knowledge Engineering Group, Institute of Automation, Chinese Academy of Sciences (expected to graduate in June 2026), advised by Prof. <a href='https://people.ucas.ac.cn/~yubochen'>Yubo Chen(陈玉博)</a> and Prof. <a href='https://people.ucas.ac.cn/~zhaojun'>Jun Zhao(赵军)</a>. Currently, I am working on LLM Unlearning and RL and I am also intereted in LLM Continual Learning and Cmoplex Event Analysis.
 
 
 # 🔥 News
-- *2025.02*: 🎉 ``DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
-- *2024.10*: 💡 ``Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted at COLING 2024 main.
+- *2025.02*: 🎉 ''DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
+- *2024.10*: 🎉'' Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted at COLING 2024 main.
 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="RULE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/500x300.png' alt="RULE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality**](https://github.com/chenlong-clock/RULE-Unlearn)  
@@ -37,7 +37,7 @@ I am now a second-year master student at the Laboratory of Language and Knowledg
 Proposes a Reinforcement Learning-based unlearning method using boundary optimization with minimal forget data (12%) and synthetic queries (8%). Introduces *naturalness* as a new evaluation dimension, and demonstrates Pareto-optimality between forgetting and retention.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/500x300.png' alt="DTELS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/android-chrome-192x192.png' alt="DTELS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DTELS: Towards Dynamic Granularity of Timeline Summarization**](https://aclanthology.org/2025.naacl-long.136.pdf)  
@@ -64,15 +64,16 @@ Proposes HANet, which enables continual few-shot event detection via one-exempla
 - *2019–2023*, National Scholarship (Top 0.2%) ×3  
 
 # 🎤 Academic Services
-- Reviewer for **NLPCC**
-- Task Organizer, **CCKS 2025** Shared Task: *Contextual Event Timeline Generation for Social Media*
-- Task Co-organizer, **SemEval 2026** Shared Task: *Abductive Event Reasoning (AER)*
+- Task Co-organizer, **SemEval 2026** Shared Task: *Abductive Event Reasoning: Towards Real-World Event Causal Inference for Large Language LLMs*
+- Task Organizer, **CCKS 2025** Shared Task: *Event Timeline Generation for Social Media*
+- Reviewer for **NLPCC 2025**
+
 
 # 📖 Educations
-- *2023 – Present*, **Institute of Automation, CAS**, Beijing — M.S. in NLKE Group (GPA: 3.82/4.0)  
+- *2023 – Present*, **Institute of Automation, Chinese Academy of Sciences**, Beijing — M.S. in NLKE Group (GPA: 3.82/4.0)  
 - *2019 – 2023*, **Henan University**, Henan — B.S. in Software Engineering (GPA: 3.84/4.0, Rank: 1/388)
 
 
 # 💻 Internships
-- *Sep 2022 – Jul 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
-- *Feb 2025 – May 2025*, **The Hong Kong University of Science and Technology (Guangzhou)** — *Research Intern*, advised by [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei)
+- *Feb. 2025 – May. 2025*, **The Hong Kong University of Science and Technology (Guangzhou)** — *Research Intern*, advised by [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei)
+- *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
