@@ -54,5 +54,5 @@ I am now a second-year master student at the Laboratory of Language and Knowledg
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2022.09 - 2023.-07*, [NLPR, Institute of Automation, Chinese Academy of Sciences](https://nlpr.ia.ac.cn/cip/english/~junzhao/index.html/), Beijing, China.
-- *2025.02 - 2025.05*, [The Hong Kong University of Science and Technology (Guangzhou)]
+- *Sep 2022 – Jul 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences**, Beijing, China — *Research Assistant*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
+- *Feb 2025 – May 2025*, **The Hong Kong University of Science and Technology (Guangzhou)** — *Research Intern*, advised by [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei)
