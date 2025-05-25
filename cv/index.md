@@ -1,6 +1,8 @@
 ---
-layout: default
-title: "Curriculum Vitae"
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
 permalink: /cv/
 author_profile: true
 ---
