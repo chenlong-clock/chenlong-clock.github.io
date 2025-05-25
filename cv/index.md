@@ -4,17 +4,9 @@ title: "Chenlong's CV"
 permalink: /cv/
 ---
 
-<div style="margin-top: 1em; margin-bottom: 2em;">
-  <object
-    data="/cv/Chenlong_CV.pdf"
-    type="application/pdf"
-    width="100%"
-    height="1000px"
-    style="border: none;"
-  >
-    <p>
-      Your browser does not support PDFs.
-      <a href="/cv/Chenlong_CV.pdf">Download the PDF</a> instead.
-    </p>
-  </object>
-</div>
+<iframe 
+  src="/cv/Chenlong_CV.pdf" 
+  width="100%" 
+  height="1000px" 
+  style="border: none; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+</iframe>
