@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenlong Zhang"
-description              : "Chenlong's Homepage"
+description              : "Interested in LLM Unlearning/Continual Learning/RL"
 repository               : "chenlong-clock/chenlong-clock.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenlong Zhang (张晨龙)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master student at Institute of Automation, Chinese Academy of Sciences. \n\nInterested in LLM Unlearning/Continual Learning/RL"
+  bio              : "Master student at Institute of Automation, Chinese Academy of Sciences."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qnOoipoAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "zhangchenlong2023@ia.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "chenlong-clock" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
