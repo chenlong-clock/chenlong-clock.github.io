@@ -1,9 +1,7 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
 permalink: /cv/
+title: "CV"
+excerpt: ""
 author_profile: true
 ---
 
