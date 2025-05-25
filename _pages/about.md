@@ -68,8 +68,8 @@ We present HANet, a hierarchical augmentation network for continual few-shot eve
 
 # 🎤 Academic Services
 I actively serve in the NLP community as a shared task organizer and reviewer.
-- Task Co-organizer, **SemEval 2026** Shared Task: *Abductive Event Reasoning: Towards Real-World Event Causal Inference for Large Language LLMs*
-- Task Organizer, **CCKS 2025** Shared Task: *Event Timeline Generation for Social Media*
+- Task Organizer, **SemEval 2026**: *Abductive Event Reasoning: Towards Real-World Event Causal Inference for Large Language LLMs*
+- Task Organizer, **CCKS 2025**: *Event Timeline Generation for Social Media*
 - Conference Reviewer: **NLPCC 2025**
 
 
