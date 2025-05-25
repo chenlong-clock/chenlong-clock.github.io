@@ -54,4 +54,5 @@ I am now a second-year master student at the Laboratory of Language and Knowledg
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2023.-07*, [NLPR, Institute of Automation, Chinese Academy of Sciences](https://nlpr.ia.ac.cn/cip/english/~junzhao/index.html/), Beijing, China.
+- *2025.02 - 2025.05*, [The Hong Kong University of Science and Technology (Guangzhou)]
