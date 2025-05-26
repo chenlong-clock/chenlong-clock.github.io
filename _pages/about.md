@@ -19,7 +19,7 @@ redirect_from:
 
 # 😀 About Me
 
-I am currently a second-year M.S. student at the Natural Language Processing and Knowledge Engineering Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao](https://people.ucas.ac.cn/~zhaojun). My research interests include **LLM Unlearning**, **Reinforcement Learning**, **Continual Learning for LLMs**, and **Complex Event Understanding**. If you are interested in my work or want to collaborate, please feel free to contact me via email: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
+I am currently a second-year M.S. student at the Natural Language Processing and Knowledge Engineering Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao](https://people.ucas.ac.cn/~zhaojun). My research interests include **LLM Unlearning**, **Reinforcement Learning**, **Continual Learning for LLMs**, and **Complex Event Understanding**. If you are interested in my work or want to collaborate, feel free to contact me via email: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
 
 # 🔥 News
 - *2025.02*: 🎉 ''DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
@@ -34,7 +34,7 @@ I am currently a second-year M.S. student at the Natural Language Processing and
 [**RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality**](https://github.com/chenlong-clock/RULE-Unlearn)  
 **Chenlong Zhang**, Zhuoran Jin, Hongbang Yuan, Jiaheng Wei, Tong Zhou, Kang Liu, Jun Zhao, Yubo Chen
 
-We propose RULE, an on-policy RL-based unlearning framework that performs refusal boundary optimization using only 12% forget data and 8% synthetic queries. The method introduces naturalness as a novel evaluation dimension and achieves Pareto-optimal trade-offs between forgetting and utility retention.
+We propose RULE, an on-policy RL-based unlearning framework that performs refusal boundary optimization using only 12% forget data and 8% synthetic queries. We introduces naturalness as a novel evaluation dimension. Experimental results demonstrate that RULE achieves Pareto-optimal trade-offs between forgetting and utility retention.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/DTELS.png' alt="DTELS" width="100%"></div></div>
@@ -43,23 +43,23 @@ We propose RULE, an on-policy RL-based unlearning framework that performs refusa
 [**DTELS: Towards Dynamic Granularity of Timeline Summarization**](https://aclanthology.org/2025.naacl-long.136.pdf)  
 **Chenlong Zhang**, Tong Zhou, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao
 
-We introduce DTELS, a framework for timeline summarization with controllable granularity levels. Alongside, we release the DTELS-Bench dataset containing 543 topics and 55k articles annotated at three granularity levels. We further propose event-centric evaluation metrics and reveal that existing LLMs struggle with maintaining temporal consistency across granularities.
+We introduce DTELS, a task for timeline summarization with controllable granularity levels. Alongside, we release the DTELS-Bench dataset containing 543 topics and 55k articles annotated at three granularity levels. We further propose event-centric evaluation metrics and reveal that existing LLMs struggle with maintaining temporal consistency across granularities.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/CFED.png' alt="CFED" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Continual Few-shot Event Detection via Hierarchical Augmentation Networks**](https://github.com/chenlong-clock/CFED-HANet)  
+[**Continual Few-shot Event Detection via Hierarchical Augmentation Networks**](https://aclanthology.org/2024.lrec-main.342.pdf)  
 **Chenlong Zhang**, Pengfei Cao, Yubo Chen, Kang Liu, Zhiqiang Zhang, Mengshu Sun, Jun Zhao
 
-We present HANet, a hierarchical augmentation network for continual few-shot event detection. By leveraging one-exemplar learning and contrastive augmentation, HANet achieves up to +8.4% micro-F1 improvement over prior methods, outperforming both full model retraining and GPT-3.5-based baselines. 
+We introduce Continual Few-shot Event Detection (CFED), a challenging task that requires continual learning of event detection with limited exemplars. To address this, we present HANet, a hierarchical augmentation network for continual few-shot event detection. By leveraging one-exemplar learning and contrastive augmentation, HANet achieves up to +8.4% micro-F1 improvement over prior methods, outperforming both full model retraining and GPT-3.5-based baselines. 
 </div></div>
 
 
 # 🏆 Honors and Awards
 
 - *May 2024* Merit Student, University of Chinese Academy of Sciences  
-- *Jun. 2023* Outstanding Graduate, Henan Province, Provincial Education Department  
+- *Jun. 2023* Outstanding Graduate, Provincial Education Department  
 - *Jun. 2023* Excellent Bachelor's Thesis Award, Henan University  
 - *Dec. 2022* China National Scholarship (**Top 0.2% nationwide**), Ministry of Education  
 - *Apr. 2022* Excellent Completion, National Undergraduate Innovation and Entrepreneurship Program (Project Leader)  
