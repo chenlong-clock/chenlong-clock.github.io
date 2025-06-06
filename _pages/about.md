@@ -21,6 +21,16 @@ redirect_from:
 
 I am currently a second-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen (陈玉博)](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao (赵军)](https://people.ucas.ac.cn/~zhaojun). My research interests include **Trutworthy LLMs**, **Efficient and Scalable LLMs**, and **Complex Event Modeling and Simulation**. If you are interested in my work or want to collaborate, feel free to contact me via: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
 
+
+# 📖 Educations
+- *2023 – Fall 2026 (Expected)*, **Institute of Automation, Chinese Academy of Sciences**, Beijing — M.S. in Pattern Recognition and Intelligent Systems (GPA: 3.82/4.0)  
+- *2019 – 2023*, **Henan University**, Henan — B.S. in Software Engineering (GPA: 3.84/4.0, Rank: 1/388)
+
+
+# 💻 Internships
+- *Feb. 2025 – May. 2025*, **The Hong Kong University of Science and Technology (Guangzhou)** — *Research Intern*, advised by [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei)
+- *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
+
 # 🔥 News
 - *2025.02*: 🎉 ''DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
 - *2024.10*: 🎉 ''Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted at COLING 2024 main.
@@ -73,16 +83,6 @@ I actively serve in the NLP community as a shared task organizer and reviewer.
 - Task Organizer, **SemEval 2026**: *Abductive Event Reasoning: Towards Real-World Event Causal Inference for Large Language LLMs*
 - Task Organizer, **CCKS 2025**: *Event Timeline Generation for Social Media*
 - Conference Reviewer: **NLPCC 2025**
-
-
-# 📖 Educations
-- *2023 – Present*, **Institute of Automation, Chinese Academy of Sciences**, Beijing — M.S. in Pattern Recognition and Intelligent Systems (GPA: 3.82/4.0)  
-- *2019 – 2023*, **Henan University**, Henan — B.S. in Software Engineering (GPA: 3.84/4.0, Rank: 1/388)
-
-
-# 💻 Internships
-- *Feb. 2025 – May. 2025*, **The Hong Kong University of Science and Technology (Guangzhou)** — *Research Intern*, advised by [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei)
-- *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
 
 
 <div style="width: 250px; margin: 2em auto;">
