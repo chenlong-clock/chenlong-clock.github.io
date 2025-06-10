@@ -19,7 +19,11 @@ redirect_from:
 
 # 😀 About Me
 
-I am currently a second-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen (陈玉博)](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao (赵军)](https://people.ucas.ac.cn/~zhaojun). My research interests include **Trutworthy LLMs**, **Efficient and Scalable LLMs**, and **Complex Event Modeling and Simulation**. If you are interested in my work or want to collaborate, feel free to contact me via: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
+I am currently a second-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen (陈玉博)](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao (赵军)](https://people.ucas.ac.cn/~zhaojun). My research interests include **Trutworthy LLMs**, **Multimodal Reasoning for LLM**, and **Reinforcement Learning with Verifiable Rewards**. If you are interested in my work or want to collaborate, feel free to contact me via: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
+
+<span style="color: red;">I am actively seeking **collaboration opportunities** and **Ph.D. positions** starting in Fall 2026.</span>
+
+
 
 
 # 📖 Educations
