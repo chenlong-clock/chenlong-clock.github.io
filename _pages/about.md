@@ -41,7 +41,7 @@ I am currently a second-year M.S. student at the [Natural Language Processing an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/RULE.png' alt="RULE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality**](https://github.com/chenlong-clock/RULE-Unlearn)  
+[**RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality**](https://arxiv.org/pdf/2506.07171)  
 **Chenlong Zhang**, Zhuoran Jin, Hongbang Yuan, Jiaheng Wei, Tong Zhou, Kang Liu, Jun Zhao, Yubo Chen
 
 We propose RULE, an on-policy RL-based unlearning framework that performs refusal boundary optimization using only 12% forget data and 8% synthetic queries. We introduce the concept of "*naturalness*" as a novel evaluation dimension. Experimental results demonstrate that RULE achieves Pareto-optimal trade-offs between forgetting and utility.
