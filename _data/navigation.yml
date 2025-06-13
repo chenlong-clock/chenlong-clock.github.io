@@ -20,10 +20,10 @@ main:
 
 
   - title: "Service"
-    url: "/#academic-services"
+    url: "/#-academic-services"
     
   - title: "Misc"
-    url: "/#misc"
+    url: "/#-misc"
 
   - title: "CV"
     url: "/cv/"
