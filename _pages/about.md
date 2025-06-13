@@ -89,8 +89,9 @@ I actively serve in the NLP community as a shared task organizer and reviewer.
 - Conference Reviewer: **NLPCC 2025**, **ACL**
 
 # 🌟 Misc
-- **Basketball 🏀** and **Music 🎵** occupy most of my leisure time. 
-- 🗿 I am currently exploring the mystery of English Rock, listening to **Pink Floyd** and **Yes**. If you have any recommendations, please let me know!
+- **Basketball 🏀** and **Music 🎵** take up a big part of my free time.
+- 🗿 I'm currently diving into the world of English Rock, listening to **Pink Floyd** and **Yes**. If you have any recommendations, feel free to share!
+
 
 <div style="width: 250px; margin: 2em auto;">
   <p align="center" style="font-weight: bold;">🌍 Visitor Map</p>
