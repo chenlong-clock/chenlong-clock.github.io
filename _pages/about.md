@@ -88,11 +88,9 @@ I actively serve in the NLP community as a shared task organizer and reviewer.
 - Task Organizer, **CCKS 2025**: *Event Timeline Generation for Social Media*
 - Conference Reviewer: **NLPCC 2025**, **ACL**
 
-# 🎵 Misc
-- **Basketball** and **Music** occupy most of my leisure time. 
-- I am currently listening to **Pink Floyd** and **Yes!**, if you have any recommendations, please let me know!
-
-# 
+# 🌟 Misc
+- **Basketball 🏀** and **Music 🎵** occupy most of my leisure time. 
+- 🗿 I am currently exploring the mystery of English Rock, listening to **Pink Floyd** and **Yes**. If you have any recommendations, please let me know!
 
 <div style="width: 250px; margin: 2em auto;">
   <p align="center" style="font-weight: bold;">🌍 Visitor Map</p>
