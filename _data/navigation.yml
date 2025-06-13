@@ -17,6 +17,14 @@ main:
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-  
+
+
+  - title: "Service"
+    url: "/#-service"
+    
+  - title: "Misc"
+    url: "/#misc"
+
   - title: "CV"
     url: "/cv/"
+
