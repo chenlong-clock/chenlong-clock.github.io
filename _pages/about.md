@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a second-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen (陈玉博)](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao (赵军)](https://people.ucas.ac.cn/~zhaojun). My research interests include **Trutworthy LLMs**, **Multimodal Reasoning for LLM**, and **Reinforcement Learning with Verifiable Rewards**. If you are interested in my work or want to collaborate, feel free to contact me via: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
 
-<span style="color: red;">I am actively seeking **collaboration opportunities** and **Ph.D. positions** starting in Fall 2026.</span>
+<span style="color: red;">I am actively seeking **Ph.D. positions** starting in Fall 2026.</span>
 
 
 
@@ -36,13 +36,14 @@ I am currently a second-year M.S. student at the [Natural Language Processing an
 - *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
 
 # 🔥 News
+- *2025.09*：🎉 ''RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality'' is accepted to NeurIPS 2025 main. 
 - *2025.02*: 🎉 ''DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
-- *2024.10*: 🎉 ''Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted at COLING 2024 main.
+- *2024.10*: 🎉 ''Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted to COLING 2024 main.
 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/RULE.png' alt="RULE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/RULE.png' alt="RULE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality**](https://arxiv.org/pdf/2506.07171)  
