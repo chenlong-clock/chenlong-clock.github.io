@@ -36,6 +36,7 @@ I am currently a second-year M.S. student at the [Natural Language Processing an
 - *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
 
 # 🔥 News
+- *2025.11*: Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education.
 - *2025.09*：🎉 ''RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality'' is accepted to NeurIPS 2025 main. 
 - *2025.02*: 🎉 ''DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
 - *2024.10*: 🎉 ''Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted to COLING 2024 main.
