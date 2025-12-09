@@ -45,7 +45,7 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 - *2024.10*: 🎉 ''Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted to COLING 2024 main.
 - *2019~2023*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education ✖️ 3 times.
 
-# 📝 Publications
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interplay.png' alt="interplay" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,6 +53,7 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 
 [**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**](https://arxiv.org/pdf/2512.07783)  
 **Charlie Zhang**, Graham Neubig, Xiang Yue
+
 We build controlled experimental setups to disentangle how each training stage—pre-training, mid-training, and RL—contributes to a model’s reasoning ability. Our findings challenge common assumptions: RL only generates true capability gains when operating at the model’s competence boundary; mid-training is a powerful yet overlooked driver of generalization under fixed compute; and process-aware rewards curb reward hacking while enhancing reasoning fidelity. Together, this work provides a clear blueprint for building more reliable, reasoning-centric language models.
 </div></div>
 
