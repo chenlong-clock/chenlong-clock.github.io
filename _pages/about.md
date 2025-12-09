@@ -19,7 +19,8 @@ redirect_from:
 
 # 😀 About Me
 
-I am currently a second-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen (陈玉博)](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao (赵军)](https://people.ucas.ac.cn/~zhaojun). My research interests include **Trutworthy LLMs**, **Multimodal Reasoning for LLM**, and **Reinforcement Learning with Verifiable Rewards**. If you are interested in my work or want to collaborate, feel free to contact me via: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
+I am currently a third-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen (陈玉博)](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao (赵军)](https://people.ucas.ac.cn/~zhaojun). I am also very fortunate to work with [Xiang Yue](https://xiangyue9607.github.io) at Carnegie Mellon University. 
+ My research interests include **RL Generalizability**, **Multimodal Reasoning**, and **Trustworthy LLMs**. If you are interested in my work or want to collaborate, feel free to contact me via: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
 
 <span style="color: red;">I am actively seeking **Ph.D. positions** starting in Fall 2026.</span>
 
@@ -32,17 +33,29 @@ I am currently a second-year M.S. student at the [Natural Language Processing an
 
 
 # 💻 Internships
+- *Jun. 2025 – Dec. 2025*, **Language Technologies Institute - Carnegie Mellon University** — *Research Intern*, advised by [Xiang Yue](https://xiangyue9607.github.io) and [Graham Neubig](https://www.phontron.com)
 - *Feb. 2025 – May. 2025*, **The Hong Kong University of Science and Technology (Guangzhou)** — *Research Intern*, advised by [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei)
 - *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
 
 # 🔥 News
-- *2025.11*: Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education.
+- *2025.12*: 🎉 New preprint [''On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models''](https://arxiv.org/abs/2512.07783) released.
+- *2025.11*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education.
 - *2025.09*：🎉 ''RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality'' is accepted to NeurIPS 2025 main. 
 - *2025.02*: 🎉 ''DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
 - *2024.10*: 🎉 ''Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted to COLING 2024 main.
-
+- *2019~2023*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education ✖️ 3 times.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/RULE.png' alt="RULE" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**](https://arxiv.org/pdf/2512.07783)  
+**Charlie Zhang**, Graham Neubig, Xiang Yue
+
+</div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/RULE.png' alt="RULE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

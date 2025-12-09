@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenlong"
-description              : "Interested in LLM Unlearning/Multimodal Reasoning/RLVR"
+description              : "Interested in RL Generalization/Multimodal Reasoning/Unlearning"
 repository               : "chenlong-clock/chenlong-clock.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chenlong Zhang<br>(张晨龙)"
+  name             : "Chenlong (Charlie) Zhang<br>(张晨龙)"
   avatar           : "images/avatar.png"
   bio              : "Master student at Institute of Automation, Chinese Academy of Sciences."
   location         : "Beijing, China"
