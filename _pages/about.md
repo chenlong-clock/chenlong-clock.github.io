@@ -19,12 +19,16 @@ redirect_from:
 
 # 😀 About Me
 
-I am currently a third-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Prof. Yubo Chen (陈玉博)](https://people.ucas.ac.cn/~yubochen) and [Prof. Jun Zhao (赵军)](https://people.ucas.ac.cn/~zhaojun). I am also very fortunate to work with [Xiang Yue](https://xiangyue9607.github.io) at Carnegie Mellon University. 
+I am currently a third-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Yubo Chen](https://people.ucas.ac.cn/~yubochen) and [Jun Zhao](https://people.ucas.ac.cn/~zhaojun). I am also very fortunate to work with [Xiang Yue](https://xiangyue9607.github.io) and [Graham Neubig](https://www.phontron.com) at Carnegie Mellon University. 
  My research interests include **RL Generalizability**, **Multimodal Reasoning**, and **Trustworthy LLMs**. If you are interested in my work or want to collaborate, feel free to contact me via: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
+
 
 <span style="color: red;">I am actively seeking **Ph.D. positions** starting in Fall 2026.</span>
 
 
+<div id="wechat-contact" style="max-width: 240px; margin: 1.5em auto; text-align: center;">
+  <p style="margin-top: 0.5em; font-size: 0.9em; color: #6b7280;">Wechat: <a href="{{ '/images/wechat_qr.jpg' | relative_url }}" target="_blank" rel="noopener">Click to view QR code</a></p>
+</div>
 
 
 # 📖 Educations
@@ -38,7 +42,8 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 - *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
 
 # 🔥 News
-- *2025.12*: 🎉 New preprint [''On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models''](https://arxiv.org/abs/2512.07783) released.
+- *2025.12*: 🎉 New preprint [''On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models''](https://arxiv.org/abs/2512.07783) released. PR in [X Post](https://x.com/xiangyue96/status/1998488030836044112).
+
 - *2025.11*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education.
 - *2025.09*：🎉 ''RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality'' is accepted to NeurIPS 2025 main. 
 - *2025.02*: 🎉 ''DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
