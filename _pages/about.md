@@ -19,7 +19,7 @@ redirect_from:
 
 # 😀 About Me
 
-I am currently a third-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Yubo Chen](https://people.ucas.ac.cn/~yubochen) and [Jun Zhao](https://people.ucas.ac.cn/~zhaojun). I am also very fortunate to work with [Xiang Yue](https://xiangyue9607.github.io) and [Graham Neubig](https://www.phontron.com) at Carnegie Mellon University. 
+I am currently a third-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Yubo Chen](https://people.ucas.ac.cn/~yubochen) and [Jun Zhao](https://people.ucas.ac.cn/~zhaojun). I am also very fortunate to work with [Xiang Yue](https://xiangyue9607.github.io) at Carnegie Mellon University. 
  My research interests include **RL Generalizability**, **Multimodal Reasoning**, and **Trustworthy LLMs**. If you are interested in my work or want to collaborate, feel free to contact me via: zhangchenlong2023\[at\]ia\[dot\]ac\[dot\]cn.
 
 
