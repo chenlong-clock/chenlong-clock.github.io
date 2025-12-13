@@ -92,7 +92,7 @@ We introduce Continual Few-shot Event Detection (CFED), a challenging task that 
 
 
 # 🏆 Honors and Awards
-
+- *Dec. 2025* China National Scholarship (**Top 0.2% nationwide**), Ministry of Education  
 - *May 2024* Merit Student, University of Chinese Academy of Sciences  
 - *Jun. 2023* Outstanding Graduate, Provincial Education Department  
 - *Jun. 2023* Excellent Bachelor's Thesis Award, Henan University  
