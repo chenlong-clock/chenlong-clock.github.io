@@ -37,6 +37,7 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 - *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
 
 # 🔥 News
+- *2026.01*: 🎉 ''MMR-Life: A Comprehensive Benchmark for Real-Life Multimodal Reasoning'' is accepted to ICLR 2026. [Paper](https://arxiv.org/pdf/2603.02024) | [Project Page](https://mmr-life-bench.github.io)
 - *2025.12*: 🎉 New preprint [''On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models''](https://arxiv.org/abs/2512.07783) released. PR in [X Post](https://x.com/xiangyue96/status/1998488030836044112).
 
 - *2025.11*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education.
@@ -46,6 +47,16 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 - *2019~2023*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education ✖️ 3 times.
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/mmr-life.png' alt="MMR-Life" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**MMR-Life: A Comprehensive Benchmark for Real-Life Multimodal Reasoning**](https://arxiv.org/pdf/2603.02024)  
+Jiachun Li, Shaoping Huang, Zhuoran Jin, **Chenlong Zhang**, Xuanjing Huang, Yongyi Mao, Songlin Hu, Zhiqing Sun  
+[[Project Page]](https://mmr-life-bench.github.io)
+
+MMR-Life introduces a benchmark for evaluating multimodal reasoning in real-life scenarios with complex visual-textual contexts, aiming to better measure practical reasoning capabilities of modern MLLMs.
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interplay.png' alt="interplay" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
