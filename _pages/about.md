@@ -30,7 +30,7 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 
 # 📖 Educations
 - *2023 – Fall 2026 (Expected)*, **Institute of Automation, Chinese Academy of Sciences**, Beijing — M.S. in Pattern Recognition and Intelligent Systems (GPA: 3.82/4.0)  
-- *2019 – 2023*, **Henan University**, Henan — B.S. in Software Engineering (GPA: 3.84/4.0, Rank: 1/388)
+- *2019 – 2023*, **Henan University**, Henan — B.S. in Software Engineering (GPA: 3.87/4.0, Rank: 1/388)
 
 
 # 💻 Internships
@@ -44,7 +44,7 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 - *2025.11*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education.
 - *2025.09*：🎉 ''RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality'' is accepted to NeurIPS 2025 main. 
 - *2025.02*: 🎉 ''DTELS: Towards Dynamic Granularity of Timeline Summarization'' is accepted to NAACL 2025 main.
-- *2024.10*: 🎉 ''Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted to COLING 2024 main.
+<!-- - *2024.10*: 🎉 ''Continual Few-shot Event Detection via Hierarchical Augmentation Networks'' is accepted to COLING 2024 main. -->
 - *2019~2023*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education ✖️ 3 times.
 
 # 📝 Selected Publications
