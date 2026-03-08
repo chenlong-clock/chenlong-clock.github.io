@@ -31,6 +31,9 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
+      {% if author.wechat %}
+        <li><a href="{{ '/images/wechat_qr.jpg' | relative_url }}" target="_blank" rel="noopener"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat ({{ author.wechat }})</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -125,6 +128,9 @@
       {% endif %}
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.wechat %}
+        <a href="{{ '/images/wechat_qr.jpg' | relative_url }}" target="_blank" rel="noopener" title="WeChat"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>

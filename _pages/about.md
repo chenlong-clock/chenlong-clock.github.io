@@ -26,11 +26,6 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 <span style="color: red;">I am actively seeking **Ph.D. positions** starting in Fall 2026.</span>
 
 
-<div id="wechat-contact" style="max-width: 240px; margin: 1.5em auto; text-align: center;">
-  <p style="margin-top: 0.5em; font-size: 0.9em; color: #6b7280;">Wechat: <a href="{{ '/images/wechat_qr.jpg' | relative_url }}" target="_blank" rel="noopener">Click to view QR code</a></p>
-</div>
-
-
 # 📖 Educations
 - *2023 – Fall 2026 (Expected)*, **Institute of Automation, Chinese Academy of Sciences**, Beijing — M.S. in Pattern Recognition and Intelligent Systems (GPA: 3.82/4.0)  
 - *2019 – 2023*, **Henan University**, Henan — B.S. in Software Engineering (GPA: 3.84/4.0, Rank: 1/388)
