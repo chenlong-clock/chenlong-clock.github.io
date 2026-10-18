@@ -19,17 +19,14 @@ redirect_from:
 
 # 😀 About Me
 
-I am currently a third-year M.S. student at the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, Institute of Automation, Chinese Academy of Sciences, advised by [Yubo Chen](https://people.ucas.ac.cn/~yubochen) and [Jun Zhao](https://people.ucas.ac.cn/~zhaojun). I am also very fortunate to work with [Xiang Yue](https://xiangyue9607.github.io) at Carnegie Mellon University. 
+I received my M.S. in Pattern Recognition and Intelligent Systems from the Institute of Automation, Chinese Academy of Sciences, in June 2026. During my master's studies, I was a member of the [Natural Language Processing and Knowledge Engineering (NLKE)](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html) Group, advised by [Yubo Chen](https://people.ucas.ac.cn/~yubochen) and [Jun Zhao](https://people.ucas.ac.cn/~zhaojun). I was also very fortunate to work with [Xiang Yue](https://xiangyue9607.github.io) at Carnegie Mellon University.
  My research interests include **RL Generalizability**, **Multimodal Reasoning**, and **Trustworthy LLMs**. 
  
  If you are interested in my work or want to **collaborate**, feel free to contact me via: charliezhang2023\[at\]gmail\[dot\]com.
 
 
-<!-- <span style="color: red;">I am actively seeking **Ph.D. positions** starting in Fall 2026.</span> -->
-
-
 # 📖 Educations
-- *2023 – Fall 2026 (Expected)*, **Institute of Automation, Chinese Academy of Sciences**, Beijing — M.S. in Pattern Recognition and Intelligent Systems (GPA: 3.82/4.0)  
+- *2023 – Jun. 2026*, **Institute of Automation, Chinese Academy of Sciences**, Beijing — M.S. in Pattern Recognition and Intelligent Systems (GPA: 3.82/4.0)
 - *2019 – 2023*, **Henan University**, Henan — B.S. in Software Engineering (GPA: 3.87/4.0, Rank: 1/388)
 
 
@@ -39,6 +36,8 @@ I am currently a third-year M.S. student at the [Natural Language Processing and
 - *Sep. 2022 – Jul. 2023*, **NLPR, Institute of Automation, Chinese Academy of Sciences** — *Research Intern*, advised by [Pengfei Cao](https://cpf-nlpr.github.io/)
 
 # 🔥 News
+- *2026.06*: 🎓 Received my M.S. in Pattern Recognition and Intelligent Systems from the Institute of Automation, Chinese Academy of Sciences.
+- *2026.06*: 🎉 ["On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models"](https://arxiv.org/abs/2512.07783) was accepted as a **Spotlight paper at ICML 2026**. [Code](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning).
 - *2026.01*: 🎉 ''MMR-Life: A Comprehensive Benchmark for Real-Life Multimodal Reasoning'' is accepted to ICLR 2026. [Paper](https://arxiv.org/pdf/2603.02024), [Project Page](https://mmr-life-bench.github.io)
 - *2025.12*: 🎉 New preprint [''On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models''](https://arxiv.org/abs/2512.07783) released. PR in [X Post](https://x.com/xiangyue96/status/1998488030836044112).
 - *2025.11*: 🎉 Awarded the **National Scholarship of China (top 0.2% nationwide)** by the Ministry of Education.
@@ -59,12 +58,13 @@ Jiachun Li, Shaoping Huang, Zhuoran Jin, **Chenlong Zhang**, Xuanjing Huang, Yon
 MMR-Life introduces a benchmark for evaluating multimodal reasoning in real-life scenarios with complex visual-textual contexts, aiming to better measure practical reasoning capabilities of modern MLLMs.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interplay.png' alt="interplay" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Spotlight</div><img src='images/interplay.png' alt="interplay" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 [**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**](https://arxiv.org/pdf/2512.07783)  
-**Charlie Zhang**, Graham Neubig, Xiang Yue
+**Charlie Zhang**, Graham Neubig, Xiang Yue<br>
+[[Code]](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning)
 
 We build controlled experimental setups to disentangle how each training stage—pre-training, mid-training, and RL—contributes to a model’s reasoning ability. Our findings challenge common assumptions: RL only generates true capability gains when operating at the model’s competence boundary; mid-training is a powerful yet overlooked driver of generalization under fixed compute; and process-aware rewards curb reward hacking while enhancing reasoning fidelity. Together, this work provides a clear blueprint for building more reliable, reasoning-centric language models.
 </div></div>
