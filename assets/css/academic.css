@@ -166,7 +166,7 @@ body { margin: 0; }
 #chenlong-homepage .rp-action { color: var(--rp-ink); font: 400 11px/1.8 "Courier New", monospace; text-transform: lowercase; border-bottom: 1px solid var(--rp-line); }
 #chenlong-homepage .rp-portrait { align-self: start; margin-top: 49px; position: relative; border: 1px solid var(--rp-line); padding: 5px; background: var(--rp-paper); }
 #chenlong-homepage .rp-portrait::before { content: "+"; position: absolute; top: -23px; right: -12px; color: var(--okc-cyan); font: 400 20px/1 "Courier New", monospace; }
-#chenlong-homepage .rp-portrait img { width: 104px; height: 124px; border-radius: 0; filter: grayscale(1) contrast(1.04); opacity: .88; }
+#chenlong-homepage .rp-portrait img { width: 104px; height: 124px; border-radius: 0; filter: none; opacity: 1; }
 #chenlong-homepage .rp-portrait figcaption { font: 400 9px/1.5 "Courier New", monospace; text-transform: lowercase; text-align: right; color: var(--rp-muted); padding-top: 5px; }
 #chenlong-homepage .okc-scan { position: absolute; left: 0; right: 0; top: -2px; height: 1px; opacity: 0; background: linear-gradient(90deg, transparent, var(--okc-cyan) 65%, transparent); pointer-events: none; z-index: 3; }
 #chenlong-homepage .okc-registration { position: absolute; right: 10px; bottom: 16px; font: 400 10px/1.4 "Courier New", monospace; letter-spacing: .04em; color: var(--rp-muted); pointer-events: none; }
