@@ -2,7 +2,7 @@
 layout: academic
 permalink: /
 title: "Chenlong Zhang — Agentic RL & Coding Agents"
-description: "Chenlong (Charlie) Zhang. Research in Agentic RL, Coding Agents, and RL Scaling. M.S. from CASIA, June 2026."
+description: "Chenlong (Charlie) Zhang, Ph.D. student in Computer Science at UCSB, advised by Zhen Dong. Research in reinforcement learning and coding agents. Internship experience at Qwen and ByteDance Seed."
 author_profile: false
 redirect_from:
   - /about/
@@ -30,7 +30,9 @@ redirect_from:
 
         <h1 class="rp-name" id="rp-name"><span>chenlong zhang</span><span aria-hidden="true" class="okc-name-echo">chenlong zhang</span><span class="rp-chinese" lang="zh">张晨龙</span></h1>
 
-        <p class="rp-bio rp-research-lead">I'm Chenlong (Charlie) Zhang. I work on agentic reinforcement learning, with a focus on coding agents and how their capabilities scale with RL training.</p><p class="rp-bio rp-background">I received my M.S. from the <a href="https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html" target="_blank" rel="noopener noreferrer">Institute of Automation, Chinese Academy of Sciences</a> in June 2026, and previously worked with <a href="https://xiangyue9607.github.io" target="_blank" rel="noopener noreferrer">Xiang Yue</a> at Carnegie Mellon University.</p><p class="rp-interests"><strong>Research interests: </strong>Agentic RL · Coding Agents · RL Scaling</p>
+        <p class="rp-bio rp-research-lead">I'm Chenlong (Charlie) Zhang, a Ph.D. student in Computer Science at the University of California, Santa Barbara (UCSB), advised by <a href="https://dong-zhen.com/" target="_blank" rel="noopener noreferrer">Zhen Dong</a>. My research focuses on reinforcement learning and coding agents.</p>
+        <p class="rp-bio rp-background">My research experience includes internships at <strong>Qwen</strong> and <strong>ByteDance Seed</strong>. I received my M.S. from the <a href="https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html" target="_blank" rel="noopener noreferrer">Institute of Automation, Chinese Academy of Sciences</a> in June 2026, and previously worked with <a href="https://xiangyue9607.github.io" target="_blank" rel="noopener noreferrer">Xiang Yue</a> at Carnegie Mellon University.</p>
+        <p class="rp-interests"><strong>Research interests: </strong>Agentic RL · Coding Agents · RL Scaling</p>
         <div class="rp-actions">
           <a class="rp-action rp-action-primary" href="mailto:charliezhang2023@gmail.com">Email <span aria-hidden="true">↗</span></a>
           <a class="rp-action" href="https://scholar.google.com/citations?hl=en&user=qnOoipoAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar <span aria-hidden="true">↗</span></a>
@@ -94,11 +96,14 @@ redirect_from:
     <section class="rp-section rp-profile" id="rp-profile" aria-label="Education and research experience">
       <div>
         <span aria-hidden="true" class="rp-anchor" id="-educations"></span><h2 id="rp-education">Education</h2>
+        <div class="rp-entry"><div class="rp-entry-date">Present</div><h3>University of California,<br>Santa Barbara</h3><p>Ph.D. student in Computer Science<br>Advised by <a href="https://dong-zhen.com/" target="_blank" rel="noopener noreferrer">Zhen Dong</a></p></div>
         <div class="rp-entry"><div class="rp-entry-date">2023 — June 2026</div><h3>Institute of Automation,<br>Chinese Academy of Sciences</h3><p>M.S. in Pattern Recognition and Intelligent Systems<br>GPA 3.82 / 4.0<br>Advised by <a href="https://people.ucas.ac.cn/~yubochen" target="_blank" rel="noopener noreferrer">Yubo Chen</a> and <a href="https://people.ucas.ac.cn/~zhaojun" target="_blank" rel="noopener noreferrer">Jun Zhao</a></p></div>
         <div class="rp-entry"><div class="rp-entry-date">2019 — 2023</div><h3>Henan University</h3><p>B.S. in Software Engineering<br>GPA 3.87 / 4.0 · Rank 1 / 388</p></div>
       </div>
       <div>
         <span aria-hidden="true" class="rp-anchor" id="-internships"></span><h2 id="rp-experience">Research experience</h2>
+        <div class="rp-entry"><div class="rp-entry-date">2026</div><h3>ByteDance Seed</h3><p>Intern · Reinforcement learning for coding agents</p></div>
+        <div class="rp-entry"><div class="rp-entry-date">January — June 2026</div><h3>Qwen, Alibaba</h3><p>Intern · Post-training<br>Reward-hacking monitors for coding-agent RL</p></div>
         <div class="rp-entry"><div class="rp-entry-date">June — December 2025</div><h3>Carnegie Mellon University</h3><p>Language Technologies Institute · Research Intern<br>Advised by <a href="https://xiangyue9607.github.io" target="_blank" rel="noopener noreferrer">Xiang Yue</a> and <a href="https://www.phontron.com" target="_blank" rel="noopener noreferrer">Graham Neubig</a></p></div>
         <div class="rp-entry"><div class="rp-entry-date">February — May 2025</div><h3>HKUST (Guangzhou)</h3><p>Research Intern · Advised by <a href="https://sites.google.com/ucsc.edu/jiahengwei" target="_blank" rel="noopener noreferrer">Jiaheng Wei</a></p></div>
         <div class="rp-entry"><div class="rp-entry-date">September 2022 — July 2023</div><h3>NLPR, Institute of Automation, CAS</h3><p>Research Intern · Advised by <a href="https://cpf-nlpr.github.io/" target="_blank" rel="noopener noreferrer">Pengfei Cao</a></p></div>

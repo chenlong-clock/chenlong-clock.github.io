@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenlong Zhang"
-description              : "Agentic RL, Coding Agents, and RL Scaling."
+description              : "Chenlong Zhang, Ph.D. student at UCSB, advised by Zhen Dong. Reinforcement learning and coding agents."
 repository               : "chenlong-clock/chenlong-clock.github.io"
 url                      : "https://chenlong-clock.github.io"
 baseurl                  : ""
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenlong (Charlie) Zhang<br>(张晨龙)"
   avatar           : "images/avatar.png"
-  bio              : "Agentic RL · Coding Agents · RL Scaling. M.S., CASIA (June 2026)."
+  bio              : "Ph.D. student in Computer Science at UCSB, advised by Zhen Dong. Agentic RL · Coding Agents · RL Scaling."
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
