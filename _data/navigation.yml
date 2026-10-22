@@ -1,29 +1,29 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#rp-top"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#rp-education"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#rp-experience"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#rp-news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#rp-research"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#rp-honors"
 
 
   - title: "Service"
-    url: "/#-academic-services"
+    url: "/#rp-service"
     
   - title: "Misc"
-    url: "/#-misc"
+    url: "/#rp-misc"
 
   - title: "CV"
     url: "/cv/"

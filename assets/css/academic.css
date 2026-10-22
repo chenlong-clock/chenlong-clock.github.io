@@ -1,0 +1,289 @@
+:root { color-scheme: light dark; background: light-dark(#f5f8f7, #121b22); }
+body { margin: 0; }
+@font-face{font-family:HomepageHan;src:url(../fonts/chenlong-han-01.woff2) format("woff2");font-weight:400;font-display:swap;unicode-range:U+4e4c,U+4e88,U+4ea1,U+4ea6,U+4ed3-4ed4,U+4eff,U+4f30,U+4fa7,U+4fc4,U+4fd7,U+500d,U+504f,U+5076-5077,U+517d,U+5192,U+51c9,U+51ef,U+5238,U+5251,U+526a,U+52c7,U+52df,U+52ff,U+53a6,U+53a8,U+53ec,U+5410,U+559d,U+55b7,U+5634,U+573e,U+5783,U+585e,U+586b,U+58a8,U+5999,U+59d3,U+5a1c,U+5a46,U+5b54-5b55,U+5b85,U+5b8b,U+5b8f,U+5bbf,U+5bd2,U+5c16,U+5c24,U+5e05,U+5e45,U+5e7c,U+5e84,U+5f03,U+5f1f,U+5f31,U+5f84,U+5f90,U+5fbd,U+5fc6,U+5fd9,U+5fe7,U+6052,U+6062,U+6089,U+60a3,U+60d1,U+6167,U+622a,U+6234,U+624e,U+6269,U+626c,U+62b5,U+62d2,U+6325,U+63e1,U+643a,U+6446,U+6562,U+656c,U+65e2,U+65fa,U+660c,U+6628,U+6652,U+6668,U+6676,U+66fc,U+66ff,U+6717,U+676d,U+67aa,U+67d4,U+6843,U+6881,U+68d2,U+695a,U+69fd,U+6a2a,U+6b8a,U+6c60,U+6c64,U+6c9f,U+6caa,U+6cc9,U+6ce1,U+6cfd,U+6d1b,U+6d1e,U+6d6e,U+6de1,U+6e10,U+6e7f,U+6f5c,U+704c,U+7070,U+7089,U+70b8,U+718a,U+71c3,U+723d,U+732a,U+73cd,U+7518,U+756a,U+75af,U+75be,U+75c7,U+76d2,U+76d7,U+7763,U+78e8,U+795d,U+79df,U+7c4d,U+7d2f,U+7ee9,U+7f13,U+7f8a,U+8000,U+8010,U+80af,U+80f6,U+80f8,U+8212,U+8273,U+82f9,U+83ab,U+83b1,U+83f2,U+8584,U+871c,U+8861,U+888b,U+88c1,U+88e4,U+8bd1,U+8bf1,U+8c31,U+8d5a,U+8d75-8d76,U+8de8,U+8f85,U+8fa3,U+8fc5,U+9006,U+903c,U+904d,U+9075,U+9178,U+9274,U+950b,U+9526,U+95ea,U+9636,U+9686,U+978b,U+987f,U+9a7e,U+9b42,U+9e1f,U+9ea6,U+9f13,U+9f84,U+ff5e;}
+@font-face{font-family:HomepageHan;src:url(../fonts/chenlong-han-02.woff2) format("woff2");font-weight:400;font-display:swap;unicode-range:U+2b,U+40,U+3000,U+300a-300b,U+4e16,U+4e66,U+4e70,U+4e91-4e92,U+4e94,U+4e9b,U+4ec0,U+4eca,U+4f01,U+4f17-4f18,U+4f46,U+4f4e,U+4f9b,U+4fee,U+503c,U+5065,U+50cf,U+513f,U+5148,U+518d,U+51c6,U+51e0,U+5217,U+529e-529f,U+5341,U+534f,U+5361,U+5386,U+53c2,U+53c8,U+53cc,U+53d7-53d8,U+53ea,U+5404,U+5411,U+5417,U+5427,U+5468,U+559c,U+5668,U+56e0,U+56e2,U+56ed,U+5740,U+57fa,U+58eb,U+5904,U+592a,U+59cb,U+5a31,U+5b58,U+5b9d,U+5bc6,U+5c71,U+5dde,U+5df1,U+5e08,U+5e26,U+5e2e,U+5e93,U+5e97,U+5eb7,U+5f15,U+5f20,U+5f3a,U+5f62,U+5f69,U+5f88,U+5f8b,U+5fc5,U+600e,U+620f,U+6218,U+623f,U+627e,U+628a,U+62a4,U+62db,U+62e9,U+6307,U+6362,U+636e,U+64ad,U+6539,U+653f,U+6548,U+6574,U+6613,U+6625,U+663e,U+666f,U+672a,U+6750,U+6784,U+6a21,U+6b3e,U+6b65,U+6bcf,U+6c11,U+6c5f,U+6df1,U+706b,U+7167,U+724c,U+738b,U+73a9,U+73af,U+7403,U+7537,U+754c,U+7559,U+767d,U+7740,U+786e,U+795e,U+798f,U+79f0,U+7aef,U+7b7e,U+7bb1,U+7ea2,U+7ea6,U+7ec4,U+7ec6,U+7ecd,U+7edc,U+7ef4,U+8003,U+80b2,U+81f3-81f4,U+822a,U+827a,U+82f1,U+83b7,U+8425,U+89c2,U+89c8,U+8ba9,U+8bb8,U+8bc6,U+8bd5,U+8be2,U+8be5,U+8bed,U+8c03,U+8d23,U+8d2d,U+8d34,U+8d70,U+8db3,U+8fbe,U+8fce,U+8fd1,U+8fde,U+9001,U+901f-9020,U+90a3,U+914d,U+91c7,U+94fe,U+9500,U+952e,U+9605,U+9645,U+9662,U+9664,U+9700,U+9752,U+975e,U+97f3,U+9879,U+9886,U+98df,U+9a6c,U+9a8c,U+9ed1,U+9f99;}
+#chenlong-homepage {
+  color-scheme: light dark;
+  --rp-paper: light-dark(#ffffff, #151917);
+  --rp-ink: light-dark(#26332e, #e7ece8);
+  --rp-muted: light-dark(#64716a, #a9b4ad);
+  --rp-green: light-dark(#35634f, #abd2ba);
+  --rp-line: light-dark(#e6ebe7, #333e37);
+  background: var(--rp-paper);
+  color: var(--rp-ink);
+  font: 14px/1.7 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  text-align: left;
+  container-type: inline-size;
+  overflow-wrap: break-word;
+  isolation: isolate;
+}
+#chenlong-homepage *, #chenlong-homepage *::before, #chenlong-homepage *::after { box-sizing: border-box; }
+#chenlong-homepage [hidden] { display: none !important; }
+#chenlong-homepage h1, #chenlong-homepage h2, #chenlong-homepage h3, #chenlong-homepage p, #chenlong-homepage figure { margin: 0; }
+#chenlong-homepage a { color: inherit; text-decoration: none; }
+#chenlong-homepage a:hover { color: var(--rp-green); text-decoration: underline; text-underline-offset: 4px; }
+#chenlong-homepage button, #chenlong-homepage summary { font: inherit; }
+#chenlong-homepage a:focus-visible, #chenlong-homepage button:focus-visible, #chenlong-homepage summary:focus-visible { outline: 2px solid var(--rp-green); outline-offset: 4px; }
+#chenlong-homepage .rp-wrap { max-width: 960px; padding: 0 42px; margin: 0 auto; }
+#chenlong-homepage .rp-nav { border-bottom: 1px solid var(--rp-line); }
+#chenlong-homepage .rp-nav-inner { min-height: 61px; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+#chenlong-homepage .rp-brand { font-size: 14px; font-weight: 500; letter-spacing: -.025em; }
+#chenlong-homepage .rp-links { display: flex; align-items: center; flex-wrap: wrap; gap: 26px; font-size: 12px; color: var(--rp-muted); }
+#chenlong-homepage .rp-links a { padding: 9px 0; }
+#chenlong-homepage .rp-theme { background: transparent; border: 0; color: var(--rp-muted); font-size: 12px; padding: 9px 0; }
+#chenlong-homepage .rp-theme i { display: none; }
+#chenlong-homepage .rp-hero { display: grid; grid-template-columns: minmax(0, 1fr) 144px; align-items: start; gap: 46px; padding-top: 48px; padding-bottom: 43px; }
+#chenlong-homepage .rp-name { font-size: 35px; font-weight: 500; line-height: 1.25; letter-spacing: -.04em; margin: 0 0 17px; }
+#chenlong-homepage .rp-chinese { font-family: HomepageHan, sans-serif; font-size: 16px; font-weight: 400; letter-spacing: .04em; margin-left: 13px; color: var(--rp-muted); white-space: nowrap; }
+#chenlong-homepage .rp-bio { font-size: 14px; line-height: 1.8; }
+#chenlong-homepage .rp-bio a, #chenlong-homepage .rp-context a, #chenlong-homepage .rp-entry a, #chenlong-homepage .rp-update-text a { text-decoration: underline; text-decoration-color: var(--rp-line); text-underline-offset: 3px; }
+#chenlong-homepage .rp-interests { margin-top: 13px; font-size: 13px; color: var(--rp-muted); }
+#chenlong-homepage .rp-interests strong { font-weight: 500; color: var(--rp-ink); }
+#chenlong-homepage .rp-actions { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; margin-top: 17px; }
+#chenlong-homepage .rp-action { color: var(--rp-green); font-size: 12px; padding: 4px 0; }
+#chenlong-homepage .rp-action span { margin-left: 3px; }
+#chenlong-homepage .rp-portrait { margin-top: 3px; }
+#chenlong-homepage .rp-portrait img { width: 144px; height: 172px; display: block; object-fit: cover; object-position: 50% 38%; border-radius: 4px; }
+#chenlong-homepage .rp-section { padding: 29px 0 30px; scroll-margin-top: 16px; }
+#chenlong-homepage .rp-section-top { margin-bottom: 5px; }
+#chenlong-homepage .rp-section-title, #chenlong-homepage .rp-profile h2 { font-size: 21px; font-weight: 500; line-height: 1.4; letter-spacing: -.025em; }
+#chenlong-homepage .rp-section-title { padding-bottom: 12px; border-bottom: 1px solid var(--rp-line); }
+#chenlong-homepage .rp-publication { display: grid; grid-template-columns: 105px minmax(0, 1fr); gap: 19px; padding: 22px 0; border-bottom: 1px solid var(--rp-line); }
+#chenlong-homepage .rp-venue { align-self: start; padding-top: 2px; font-size: 11px; line-height: 1.65; color: var(--rp-muted); }
+#chenlong-homepage .rp-spotlight { display: block; font-size: 11px; font-weight: 500; color: var(--rp-green); }
+#chenlong-homepage .rp-publication h3 { font-size: 16px; font-weight: 500; line-height: 1.5; letter-spacing: -.015em; margin-bottom: 5px; }
+#chenlong-homepage .rp-authors { font-size: 12px; line-height: 1.75; color: var(--rp-muted); }
+#chenlong-homepage .rp-authors strong { font-weight: 500; color: var(--rp-ink); }
+#chenlong-homepage .rp-paper-links { display: flex; align-items: center; flex-wrap: wrap; gap: 17px; margin-top: 7px; font-size: 12px; color: var(--rp-green); }
+#chenlong-homepage .rp-paper-links a { padding: 1px 0; }
+#chenlong-homepage .rp-abstract { margin-top: 5px; }
+#chenlong-homepage .rp-abstract > summary { width: fit-content; list-style: none; font-size: 11px; color: var(--rp-muted); padding: 2px 0; }
+#chenlong-homepage .rp-abstract > summary::-webkit-details-marker { display: none; }
+#chenlong-homepage .rp-abstract > summary::after { content: " +"; }
+#chenlong-homepage .rp-abstract[open] > summary::after { content: " −"; }
+#chenlong-homepage .rp-abstract > p { font-size: 13px; line-height: 1.8; color: var(--rp-muted); margin-top: 9px; }
+#chenlong-homepage .rp-news { padding-top: 20px; }
+#chenlong-homepage .rp-update { display: grid; grid-template-columns: 105px minmax(0, 1fr); gap: 19px; padding: 10px 0; }
+#chenlong-homepage .rp-update:first-of-type { margin-top: 12px; }
+#chenlong-homepage .rp-date { font-size: 11px; color: var(--rp-muted); padding-top: 2px; font-variant-numeric: tabular-nums; }
+#chenlong-homepage .rp-update-text { font-size: 13px; line-height: 1.75; }
+#chenlong-homepage .rp-update-text strong { font-weight: 500; }
+#chenlong-homepage .rp-archive { margin-top: 10px; }
+#chenlong-homepage .rp-archive > summary { width: fit-content; font-size: 12px; color: var(--rp-muted); padding: 5px 0; }
+#chenlong-homepage .rp-archive-list { margin-top: 9px; }
+#chenlong-homepage .rp-profile { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 50px; border-top: 1px solid var(--rp-line); margin-top: 16px; padding-top: 30px; }
+#chenlong-homepage .rp-profile h2 { margin-bottom: 22px; }
+#chenlong-homepage .rp-entry { margin-bottom: 22px; }
+#chenlong-homepage .rp-entry-date { font-size: 11px; color: var(--rp-muted); margin-bottom: 5px; }
+#chenlong-homepage .rp-entry h3 { font-size: 14px; font-weight: 500; line-height: 1.6; }
+#chenlong-homepage .rp-entry p { font-size: 12px; line-height: 1.8; color: var(--rp-muted); margin-top: 4px; }
+#chenlong-homepage .rp-context { padding: 16px 0; border-top: 1px solid var(--rp-line); font-size: 12px; color: var(--rp-muted); line-height: 1.8; }
+#chenlong-homepage .rp-context > summary { font-size: 13px; color: var(--rp-ink); padding: 3px 0; }
+#chenlong-homepage .rp-context ul { margin: 13px 0 0; padding-left: 17px; }
+#chenlong-homepage .rp-context li { margin-bottom: 8px; }
+#chenlong-homepage .rp-footer { margin-top: 24px; padding: 20px 0 28px; border-top: 1px solid var(--rp-line); display: flex; gap: 18px; justify-content: space-between; font-size: 11px; color: var(--rp-muted); }
+#chenlong-homepage .rp-footer-links { display: flex; flex-wrap: wrap; gap: 17px; }
+#chenlong-homepage .rp-theme-status { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+@container (max-width: 790px) {
+  #chenlong-homepage .rp-wrap { padding: 0 30px; }
+  #chenlong-homepage .rp-hero { gap: 32px; grid-template-columns: minmax(0, 1fr) 128px; padding-top: 37px; padding-bottom: 30px; }
+  #chenlong-homepage .rp-portrait img { width: 128px; height: 155px; }
+  #chenlong-homepage .rp-name { font-size: 30px; }
+  #chenlong-homepage .rp-chinese { font-size: 14px; margin-left: 10px; }
+  #chenlong-homepage .rp-publication, #chenlong-homepage .rp-update { grid-template-columns: 92px minmax(0, 1fr); gap: 16px; }
+  #chenlong-homepage .rp-profile { gap: 32px; }
+}
+@container (max-width: 590px) {
+  #chenlong-homepage .rp-wrap { padding: 0 22px; }
+  #chenlong-homepage .rp-nav-inner { min-height: 58px; gap: 14px; }
+  #chenlong-homepage .rp-links { gap: 18px; font-size: 11px; }
+  #chenlong-homepage .rp-nav-profile { display: none; }
+  #chenlong-homepage .rp-theme { font-size: 11px; }
+  #chenlong-homepage .rp-hero { grid-template-columns: minmax(0, 1fr) 90px; gap: 16px; padding-top: 30px; padding-bottom: 26px; }
+  #chenlong-homepage .rp-hero-text { display: contents; }
+  #chenlong-homepage .rp-name { grid-column: 1; grid-row: 1; font-size: 28px; margin-bottom: 0; align-self: center; }
+  #chenlong-homepage .rp-chinese { display: block; margin: 8px 0 0; font-size: 13px; }
+  #chenlong-homepage .rp-portrait { grid-column: 2; grid-row: 1; margin: 0; }
+  #chenlong-homepage .rp-portrait img { width: 90px; height: 105px; }
+  #chenlong-homepage .rp-bio, #chenlong-homepage .rp-interests, #chenlong-homepage .rp-actions { grid-column: 1 / -1; }
+  #chenlong-homepage .rp-bio { margin-top: 3px; font-size: 13px; }
+  #chenlong-homepage .rp-interests { font-size: 12px; margin-top: 0; }
+  #chenlong-homepage .rp-actions { margin-top: 0; gap: 22px; }
+  #chenlong-homepage .rp-section { padding: 24px 0; }
+  #chenlong-homepage .rp-section-title { font-size: 20px; }
+  #chenlong-homepage .rp-publication { grid-template-columns: minmax(0, 1fr); gap: 7px; padding: 20px 0; }
+  #chenlong-homepage .rp-venue { padding-top: 0; }
+  #chenlong-homepage .rp-spotlight { display: inline; margin-left: 7px; }
+  #chenlong-homepage .rp-publication h3 { font-size: 15px; }
+  #chenlong-homepage .rp-authors { font-size: 12px; }
+  #chenlong-homepage .rp-update { grid-template-columns: 65px minmax(0, 1fr); gap: 13px; }
+  #chenlong-homepage .rp-profile { grid-template-columns: minmax(0, 1fr); gap: 13px; }
+  #chenlong-homepage .rp-footer { flex-direction: column; gap: 10px; }
+}
+@media (pointer: coarse) {
+  #chenlong-homepage .rp-action, #chenlong-homepage .rp-paper-links a, #chenlong-homepage summary, #chenlong-homepage .rp-theme { min-height: 44px; }
+  #chenlong-homepage .rp-paper-links a, #chenlong-homepage .rp-action { display: inline-flex; align-items: center; }
+  #chenlong-homepage .rp-theme { min-width: 44px; }
+}
+
+#chenlong-homepage {
+  --rp-paper: light-dark(#f5f8f7, #121b22);
+  --rp-ink: light-dark(#142b38, #e0edf5);
+  --rp-muted: light-dark(#526978, #a0b6c6);
+  --rp-green: light-dark(#245f8b, #a3cee6);
+  --rp-line: light-dark(#c7d7e0, #314957);
+  --okc-cyan: light-dark(#65a9cb, #81b9d2);
+  --okc-red: light-dark(#93493f, #dfa196);
+  --okc-paper-blue: light-dark(#e8f0f3, #1e303c);
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#chenlong-homepage .rp-wrap { max-width: 1100px; padding: 0 42px; }
+#chenlong-homepage .rp-nav { border-bottom: 1px solid var(--rp-line); }
+#chenlong-homepage .rp-nav-inner { min-height: 64px; }
+#chenlong-homepage .rp-brand { font: 500 14px/1.3 "Courier New", monospace; letter-spacing: -.065em; text-transform: lowercase; color: var(--rp-ink); }
+#chenlong-homepage .rp-brand::after { content: " / personal archive"; font-size: 10px; letter-spacing: -.02em; color: var(--rp-muted); }
+#chenlong-homepage .rp-links { gap: 25px; font: 400 11px/1.5 "Courier New", monospace; text-transform: lowercase; }
+#chenlong-homepage .okc-motion { font: 400 11px/1.5 "Courier New", monospace; background: transparent; padding: 8px 0; border: 0; color: var(--rp-green); text-align: left; white-space: nowrap; }
+#chenlong-homepage .okc-motion::before { content: "[ "; color: var(--rp-muted); }
+#chenlong-homepage .okc-motion::after { content: " ]"; color: var(--rp-muted); }
+#chenlong-homepage .okc-motion:hover { text-decoration: underline; text-underline-offset: 4px; }
+#chenlong-homepage .okc-motion:focus-visible { outline: 2px solid var(--rp-green); outline-offset: 5px; }
+#chenlong-homepage .rp-hero { position: relative; isolation: isolate; overflow: hidden; grid-template-columns: minmax(0, 1fr) 116px; gap: 55px; padding: 60px 28px 45px; margin: 0 -28px; min-height: 344px; }
+#chenlong-homepage .okc-backdrop { position: absolute; inset: -48px -12px -45px 29%; pointer-events: none; z-index: -2; opacity: .63; overflow: hidden; mix-blend-mode: multiply; transform: translate(var(--okc-drift-x, 0px), var(--okc-drift-y, 0px)); transition: transform 900ms cubic-bezier(.15,.6,.2,1); }
+#chenlong-homepage .okc-backdrop img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: 70% 50%; }
+#chenlong-homepage .okc-veil { position: absolute; inset: 0; pointer-events: none; z-index: -1; background: linear-gradient(90deg,var(--rp-paper) 0%, color-mix(in srgb,var(--rp-paper) 94%,transparent) 29%, color-mix(in srgb,var(--rp-paper) 58%,transparent) 50%,transparent 74%); }
+#chenlong-homepage .okc-folio { color: var(--rp-green); font: 400 10px/1.5 "Courier New", monospace; letter-spacing: .06em; margin: 0 0 21px; display: flex; align-items: center; gap: 13px; }
+#chenlong-homepage .okc-folio::before { content: ""; width: 21px; height: 1px; background: var(--okc-cyan); }
+#chenlong-homepage .rp-name { position: relative; width: fit-content; max-width: 100%; font-family: Arial, Helvetica, sans-serif; font-size: 48px; font-weight: 400; letter-spacing: -.065em; line-height: 1.04; margin-bottom: 22px; text-transform: lowercase; }
+#chenlong-homepage .rp-chinese { font-size: 13px; margin-left: 13px; letter-spacing: .08em; color: var(--rp-green); }
+#chenlong-homepage .okc-name-echo { position: absolute; inset: 0; pointer-events: none; color: var(--okc-cyan); opacity: 0; }
+#chenlong-homepage .rp-bio { max-width: 650px; font-size: 14px; line-height: 1.8; }
+#chenlong-homepage .rp-bio a { text-decoration-color: color-mix(in srgb, var(--okc-cyan) 40%, transparent); }
+#chenlong-homepage .rp-interests { max-width: 620px; font-size: 12px; line-height: 1.75; color: var(--rp-muted); margin-top: 15px; }
+#chenlong-homepage .rp-interests strong { font-weight: 400; }
+#chenlong-homepage .rp-actions { gap: 24px; margin-top: 22px; }
+#chenlong-homepage .rp-action { color: var(--rp-ink); font: 400 11px/1.8 "Courier New", monospace; text-transform: lowercase; border-bottom: 1px solid var(--rp-line); }
+#chenlong-homepage .rp-portrait { align-self: start; margin-top: 49px; position: relative; border: 1px solid var(--rp-line); padding: 5px; background: var(--rp-paper); }
+#chenlong-homepage .rp-portrait::before { content: "+"; position: absolute; top: -23px; right: -12px; color: var(--okc-cyan); font: 400 20px/1 "Courier New", monospace; }
+#chenlong-homepage .rp-portrait img { width: 104px; height: 124px; border-radius: 0; filter: grayscale(1) contrast(1.04); opacity: .88; }
+#chenlong-homepage .rp-portrait figcaption { font: 400 9px/1.5 "Courier New", monospace; text-transform: lowercase; text-align: right; color: var(--rp-muted); padding-top: 5px; }
+#chenlong-homepage .okc-scan { position: absolute; left: 0; right: 0; top: -2px; height: 1px; opacity: 0; background: linear-gradient(90deg, transparent, var(--okc-cyan) 65%, transparent); pointer-events: none; z-index: 3; }
+#chenlong-homepage .okc-registration { position: absolute; right: 10px; bottom: 16px; font: 400 10px/1.4 "Courier New", monospace; letter-spacing: .04em; color: var(--rp-muted); pointer-events: none; }
+#chenlong-homepage .rp-section { padding-top: 30px; }
+#chenlong-homepage .rp-section-title { border-bottom: 1px solid var(--rp-green); font: 400 14px/1.6 "Courier New", monospace; text-transform: lowercase; letter-spacing: -.025em; display: flex; justify-content: space-between; gap: 16px; padding-bottom: 10px; }
+#chenlong-homepage .okc-section-mark { font-size: 10px; color: var(--rp-muted); letter-spacing: .02em; align-self: center; white-space: nowrap; }
+#chenlong-homepage .rp-publication { position: relative; grid-template-columns: 107px minmax(0, 1fr); gap: 22px; padding: 24px 0; border-bottom: 1px solid var(--rp-line); }
+#chenlong-homepage .rp-publication::after { content: ""; position: absolute; left: 129px; bottom: -1px; width: 0; height: 1px; background: var(--rp-green); transition: width 360ms ease-out; pointer-events: none; }
+#chenlong-homepage[data-motion="on"] .rp-publication:hover::after, #chenlong-homepage[data-motion="on"] .rp-publication:focus-within::after { width: calc(100% - 129px); }
+#chenlong-homepage .rp-publication > div { transition: transform 300ms ease-out; }
+#chenlong-homepage[data-motion="on"] .rp-publication:hover > div { transform: translateX(2px); }
+#chenlong-homepage .rp-venue { font: 400 11px/1.7 "Courier New", monospace; color: var(--rp-muted); }
+#chenlong-homepage .okc-track { display: block; font: 400 11px/1.6 "Courier New", monospace; color: var(--rp-green); margin-bottom: 5px; }
+#chenlong-homepage .rp-spotlight { font: 400 10px/1.6 "Courier New", monospace; color: var(--okc-red); display: block; width: fit-content; border-bottom: 1px solid color-mix(in srgb, var(--okc-red) 38%, transparent); margin-top: 2px; }
+#chenlong-homepage .rp-publication h3 { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: -.018em; }
+#chenlong-homepage .rp-authors { font-size: 12px; }
+#chenlong-homepage .rp-paper-links { color: var(--rp-green); gap: 18px; font: 400 11px/1.8 "Courier New", monospace; text-transform: lowercase; }
+#chenlong-homepage .rp-paper-links a { padding-bottom: 1px; background-image: linear-gradient(var(--rp-green),var(--rp-green)); background-repeat: no-repeat; background-size: 0 1px; background-position: left bottom; transition: background-size 240ms ease; }
+#chenlong-homepage .rp-paper-links a:hover { background-size: 100% 1px; text-decoration: none; }
+#chenlong-homepage .rp-abstract > summary { font: 400 10px/1.8 "Courier New", monospace; color: var(--rp-muted); text-transform: lowercase; }
+#chenlong-homepage .rp-abstract > p { color: var(--rp-muted); }
+#chenlong-homepage .rp-news { padding-top: 32px; }
+#chenlong-homepage .rp-update { grid-template-columns: 107px minmax(0,1fr); gap: 22px; }
+#chenlong-homepage .rp-date { font: 400 11px/1.7 "Courier New", monospace; padding-top: 2px; }
+#chenlong-homepage .rp-update-text { font-size: 13px; }
+#chenlong-homepage .rp-profile { border-top-color: var(--rp-line); margin-top: 18px; }
+#chenlong-homepage .rp-profile h2 { font: 400 15px/1.5 "Courier New", monospace; text-transform: lowercase; }
+#chenlong-homepage .rp-entry-date { font: 400 10px/1.6 "Courier New", monospace; }
+#chenlong-homepage .rp-entry h3 { font-weight: 400; }
+#chenlong-homepage .rp-context > summary { font: 400 12px/1.7 "Courier New", monospace; text-transform: lowercase; }
+#chenlong-homepage .rp-footer { font: 400 10px/1.7 "Courier New", monospace; }
+#chenlong-homepage .rp-footer-links span { display: none; }
+#chenlong-homepage .okc-theme-credit { display: block; margin-top: 5px; color: var(--rp-muted); font-size: 9px; }
+#chenlong-homepage[data-motion="on"] .okc-backdrop img { animation: okc-paper-arrive 2400ms cubic-bezier(.16,.7,.2,1) both; }
+#chenlong-homepage[data-motion="on"] .okc-name-echo { animation: okc-print-register 2100ms 300ms ease-out both; }
+#chenlong-homepage[data-motion="on"] .okc-scan { animation: okc-scan-pass 11000ms 700ms linear both; }
+#chenlong-homepage[data-motion="off"] *, #chenlong-homepage[data-motion="off"] *::before, #chenlong-homepage[data-motion="off"] *::after { animation: none !important; transition: none !important; }
+#chenlong-homepage[data-motion="off"] .okc-backdrop { transform: none; }
+@keyframes okc-paper-arrive { from { transform: translate(10px, -4px) scale(1.015); } to { transform: translate(0, 0) scale(1); } }
+@keyframes okc-print-register {
+  0%, 28%, 100% { transform: translate(0,0); opacity: 0; }
+  38% { transform: translate(3px,-1px); opacity: .22; }
+  54% { transform: translate(-2px,1px); opacity: .12; }
+  72% { transform: translate(1px,0); opacity: .08; }
+}
+@keyframes okc-scan-pass { 0% { top: 0; opacity: 0; } 12% { opacity: .2; } 86% { opacity: .13; } 100% { top: 100%; opacity: 0; } }
+@container (max-width: 790px) {
+  #chenlong-homepage .rp-wrap { padding: 0 30px; }
+  #chenlong-homepage .rp-brand::after { display: none; }
+  #chenlong-homepage .rp-links { gap: 20px; }
+  #chenlong-homepage .rp-hero { grid-template-columns: minmax(0,1fr) 104px; gap: 30px; margin: 0 -20px; padding: 42px 20px 36px; min-height: 320px; }
+  #chenlong-homepage .rp-name { font-size: 40px; }
+  #chenlong-homepage .rp-portrait { margin-top: 48px; }
+  #chenlong-homepage .rp-portrait img { width: 92px; height: 113px; }
+  #chenlong-homepage .rp-chinese { font-size: 12px; margin-left: 11px; }
+  #chenlong-homepage .rp-publication, #chenlong-homepage .rp-update { grid-template-columns: 92px minmax(0,1fr); gap: 18px; }
+  #chenlong-homepage .rp-publication::after { left: 110px; }
+  #chenlong-homepage[data-motion="on"] .rp-publication:hover::after { width: calc(100% - 110px); }
+}
+@container (max-width: 590px) {
+  #chenlong-homepage .rp-wrap { padding: 0 22px; }
+  #chenlong-homepage .rp-nav-inner { min-height: 58px; gap: 12px; }
+  #chenlong-homepage .rp-brand { font-size: 12px; }
+  #chenlong-homepage .rp-links { gap: 15px; font-size: 10px; }
+  #chenlong-homepage .okc-motion { font-size: 10px; }
+  #chenlong-homepage .rp-nav-profile { display: none; }
+  #chenlong-homepage .rp-hero { grid-template-columns: minmax(0,1fr) 86px; gap: 17px; margin: 0 -15px; padding: 31px 15px 27px; }
+  #chenlong-homepage .rp-hero-text { display: contents; }
+  #chenlong-homepage .okc-folio { grid-column: 1/-1; grid-row: 1; font-size: 9px; margin: 0; }
+  #chenlong-homepage .rp-name { grid-column: 1; grid-row: 2; font-size: 36px; margin: 8px 0 0; align-self: center; }
+  #chenlong-homepage .rp-chinese { display: block; font-size: 12px; margin: 13px 0 0; }
+  #chenlong-homepage .rp-portrait { grid-column: 2; grid-row: 2; margin: 0; padding: 4px; }
+  #chenlong-homepage .rp-portrait img { width: 76px; height: 94px; }
+  #chenlong-homepage .rp-portrait::before { top: -18px; right: -7px; font-size: 16px; }
+  #chenlong-homepage .rp-portrait figcaption { font-size: 8px; }
+  #chenlong-homepage .rp-bio, #chenlong-homepage .rp-interests, #chenlong-homepage .rp-actions { grid-column: 1/-1; }
+  #chenlong-homepage .rp-bio { font-size: 13px; margin-top: 5px; }
+  #chenlong-homepage .rp-interests { font-size: 12px; margin-top: 0; }
+  #chenlong-homepage .rp-actions { margin-top: 0; gap: 22px; }
+  #chenlong-homepage .okc-backdrop { inset: -10px -60px 30% 5%; opacity: .42; }
+  #chenlong-homepage .okc-veil { background: linear-gradient(180deg,transparent 0%,color-mix(in srgb,var(--rp-paper) 30%,transparent) 18%,var(--rp-paper) 67%); }
+  #chenlong-homepage .okc-registration { display: none; }
+  #chenlong-homepage .rp-publication { grid-template-columns: minmax(0,1fr); gap: 8px; padding: 22px 0; }
+  #chenlong-homepage .rp-venue { display: flex; align-items: baseline; flex-wrap: wrap; gap: 10px; }
+  #chenlong-homepage .okc-track { display: inline; margin: 0 2px 0 0; }
+  #chenlong-homepage .rp-spotlight { margin: 0; }
+  #chenlong-homepage .rp-publication::after { left: 0; }
+  #chenlong-homepage[data-motion="on"] .rp-publication:hover::after { width: 100%; }
+  #chenlong-homepage .rp-publication h3 { font-size: 15px; }
+  #chenlong-homepage .rp-section-title { font-size: 13px; }
+  #chenlong-homepage .okc-section-mark { font-size: 9px; }
+  #chenlong-homepage .rp-update { grid-template-columns: 65px minmax(0,1fr); gap: 13px; }
+}
+@container (max-width: 360px) {
+  #chenlong-homepage .rp-name { font-size: 31px; }
+  #chenlong-homepage .rp-links { gap: 11px; }
+  #chenlong-homepage .rp-brand { font-size: 11px; }
+  #chenlong-homepage .okc-motion { font-size: 9px; }
+}
+@media (prefers-color-scheme: dark) {
+  #chenlong-homepage .okc-backdrop { mix-blend-mode: screen; opacity: .16; }
+}
+@media (pointer: coarse) {
+  #chenlong-homepage .okc-motion { min-height: 44px; }
+}
+
+#chenlong-homepage {
+  --okc-traffic-cool: light-dark(#3988aa, #8cc9e6);
+  --okc-traffic-warm: light-dark(#a66b5b, #e6a995);
+  --okc-traffic-core: light-dark(#f8ffff, #f8ffff);
+}
+#chenlong-homepage .okc-road-plane { position: absolute; inset: 0; }
+#chenlong-homepage .okc-traffic { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+#chenlong-homepage[data-motion="on"] .okc-backdrop img { animation: none; }
+#chenlong-homepage[data-motion="on"] .okc-road-plane { animation: okc-paper-arrive 2400ms cubic-bezier(.16,.7,.2,1) both; }
+
+#chenlong-homepage .rp-background { margin-top: 12px; }
+#chenlong-homepage .cursor-interaction { cursor: pointer; }
+#chenlong-homepage .rp-anchor { display: block; height: 0; margin: 0; padding: 0; }
+#chenlong-homepage [id] { scroll-margin-top: 18px; }

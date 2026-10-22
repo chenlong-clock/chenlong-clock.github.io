@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenlong"
-description              : "Interested in RL Generalization/Multimodal Reasoning/Unlearning"
+title                    : "Chenlong Zhang"
+description              : "Agentic RL, Coding Agents, and RL Scaling."
 repository               : "chenlong-clock/chenlong-clock.github.io"
+url                      : "https://chenlong-clock.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenlong (Charlie) Zhang<br>(张晨龙)"
   avatar           : "images/avatar.png"
-  bio              : "M.S., Institute of Automation, Chinese Academy of Sciences (June 2026)."
+  bio              : "Agentic RL · Coding Agents · RL Scaling. M.S., CASIA (June 2026)."
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qnOoipoAAAAJ"
-  email            : "charliezhang0106@gmail.com"
+  email            : "charliezhang2023@gmail.com"
   wechat           : charl1e_z
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -154,6 +156,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 
 # HTML Compression
