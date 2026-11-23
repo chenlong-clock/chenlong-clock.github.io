@@ -45,10 +45,17 @@ redirect_from:
 
 
     <span aria-hidden="true" class="rp-anchor" id="-publications"></span><span aria-hidden="true" class="rp-anchor" id="-selected-publications"></span><section class="rp-section" id="rp-research" aria-labelledby="rp-research-title">
-      <div class="rp-section-top"><h2 class="rp-section-title" id="rp-research-title">selected publications<span class="okc-section-mark">01—05 / 2024—2026</span></h2></div>
+      <div class="rp-section-top"><h2 class="rp-section-title" id="rp-research-title">selected publications<span class="okc-section-mark">01—10 / 2024—2026</span></h2></div>
       <article class="rp-publication rp-featured"><div class="rp-venue"><span aria-hidden="true" class="okc-track">[01]</span>ICML 2026 <span class="rp-spotlight">Spotlight</span></div><div><h3><a href="https://arxiv.org/pdf/2512.07783" target="_blank" rel="noopener noreferrer">On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models</a></h3><p class="rp-authors"><strong>Charlie Zhang</strong>, Graham Neubig, Xiang Yue</p><div class="rp-paper-links"><a href="https://arxiv.org/pdf/2512.07783" target="_blank" rel="noopener noreferrer">Paper ↗</a><a href="https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning" target="_blank" rel="noopener noreferrer">Code ↗</a></div><details class="rp-abstract"><summary class="cursor-interaction">Read summary</summary><p>We build controlled experimental setups to disentangle how each training stage—pre-training, mid-training, and RL—contributes to a model’s reasoning ability. Our findings challenge common assumptions: RL only generates true capability gains when operating at the model’s competence boundary; mid-training is a powerful yet overlooked driver of generalization under fixed compute; and process-aware rewards curb reward hacking while enhancing reasoning fidelity. Together, this work provides a clear blueprint for building more reliable, reasoning-centric language models.</p></details></div></article>
       <article class="rp-publication">
-      <span class="rp-venue"><span aria-hidden="true" class="okc-track">[02]</span>ICLR 2026</span>
+        <span class="rp-venue"><span aria-hidden="true" class="okc-track">[02]</span>NeurIPS 2026</span>
+        <div><h3><a href="https://arxiv.org/abs/2606.05405" target="_blank" rel="noopener noreferrer">Agents' Last Exam</a></h3>
+        <p class="rp-authors">Yiyou Sun, Xinyang Han, Weichen Zhang, et al. (including <strong>Chenlong Zhang</strong>)</p>
+        <div class="rp-paper-links"><a href="https://arxiv.org/abs/2606.05405" target="_blank" rel="noopener noreferrer">Paper ↗</a><a href="https://neurips.cc/virtual/2026/poster/139517" target="_blank" rel="noopener noreferrer">Conference ↗</a><a href="https://agents-last-exam.org/" target="_blank" rel="noopener noreferrer">Project Page ↗</a></div>
+        <details class="rp-abstract"><summary class="cursor-interaction">Read summary</summary><p>A benchmark for evaluating AI agents on long-horizon tasks drawn from real work, with outcomes that can be verified.</p></details></div>
+      </article>
+      <article class="rp-publication">
+      <span class="rp-venue"><span aria-hidden="true" class="okc-track">[03]</span>ICLR 2026</span>
       <div><h3><a href="https://arxiv.org/pdf/2603.02024" target="_blank" rel="noopener noreferrer">MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasoning</a></h3>
       <p class="rp-authors">Jiachun Li, Shaoping Huang, Zhuoran Jin, <strong>Chenlong Zhang</strong>, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao</p>
       <div class="rp-paper-links"><a href="https://arxiv.org/pdf/2603.02024" target="_blank" rel="noopener noreferrer">Paper ↗</a><a href="https://mmr-life-bench.github.io" target="_blank" rel="noopener noreferrer">Project Page ↗</a></div>
@@ -56,7 +63,7 @@ redirect_from:
 
     </article>
 <article class="rp-publication">
-      <span class="rp-venue"><span aria-hidden="true" class="okc-track">[03]</span>NeurIPS 2025</span>
+      <span class="rp-venue"><span aria-hidden="true" class="okc-track">[04]</span>NeurIPS 2025</span>
       <div><h3><a href="https://arxiv.org/pdf/2506.07171" target="_blank" rel="noopener noreferrer">RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality</a></h3>
       <p class="rp-authors"><strong>Chenlong Zhang</strong>, Zhuoran Jin, Hongbang Yuan, Jiaheng Wei, Tong Zhou, Kang Liu, Jun Zhao, Yubo Chen</p>
       <div class="rp-paper-links"><a href="https://arxiv.org/pdf/2506.07171" target="_blank" rel="noopener noreferrer">Paper ↗</a></div>
@@ -64,7 +71,7 @@ redirect_from:
 
     </article>
 <article class="rp-publication">
-      <span class="rp-venue"><span aria-hidden="true" class="okc-track">[04]</span>NAACL 2025</span>
+      <span class="rp-venue"><span aria-hidden="true" class="okc-track">[05]</span>NAACL 2025</span>
       <div><h3><a href="https://aclanthology.org/2025.naacl-long.136.pdf" target="_blank" rel="noopener noreferrer">DTELS: Towards Dynamic Granularity of Timeline Summarization</a></h3>
       <p class="rp-authors"><strong>Chenlong Zhang</strong>, Tong Zhou, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao</p>
       <div class="rp-paper-links"><a href="https://aclanthology.org/2025.naacl-long.136.pdf" target="_blank" rel="noopener noreferrer">Paper ↗</a></div>
@@ -72,13 +79,41 @@ redirect_from:
 
     </article>
 <article class="rp-publication">
-      <span class="rp-venue"><span aria-hidden="true" class="okc-track">[05]</span>COLING 2024</span>
+      <span class="rp-venue"><span aria-hidden="true" class="okc-track">[06]</span>COLING 2024</span>
       <div><h3><a href="https://aclanthology.org/2024.lrec-main.342.pdf" target="_blank" rel="noopener noreferrer">Continual Few-shot Event Detection via Hierarchical Augmentation Networks</a></h3>
       <p class="rp-authors"><strong>Chenlong Zhang</strong>, Pengfei Cao, Yubo Chen, Kang Liu, Zhiqiang Zhang, Mengshu Sun, Jun Zhao</p>
       <div class="rp-paper-links"><a href="https://aclanthology.org/2024.lrec-main.342.pdf" target="_blank" rel="noopener noreferrer">Paper ↗</a></div>
       <details class="rp-abstract"><summary class="cursor-interaction">Read summary</summary><p>We introduce Continual Few-shot Event Detection (CFED), a challenging task that requires continual learning of event detection with limited exemplars. To address this, we present HANet, a hierarchical augmentation network for continual few-shot event detection. By leveraging one-exemplar learning and contrastive augmentation, HANet achieves up to +8.4% micro-F1 improvement over prior methods, outperforming both full model retraining and GPT-3.5-based baselines.</p></details></div>
 
     </article>
+      <article class="rp-publication">
+        <span class="rp-venue"><span aria-hidden="true" class="okc-track">[07]</span>SemEval 2026</span>
+        <div><h3><a href="https://aclanthology.org/2026.semeval-1.446/" target="_blank" rel="noopener noreferrer">SemEval-2026 Task 12: Abductive Event Reasoning: Towards Real-World Event Causal Inference for Large Language Models</a></h3>
+        <p class="rp-authors">Pengfei Cao, Mingxuan Yang, Yubo Chen, <strong>Chenlong Zhang</strong>, Mingxuan Liu, Kang Liu, Jun Zhao</p>
+        <div class="rp-paper-links"><a href="https://aclanthology.org/2026.semeval-1.446/" target="_blank" rel="noopener noreferrer">Paper ↗</a></div>
+        <details class="rp-abstract"><summary class="cursor-interaction">Read summary</summary><p>An organizer report on a shared task that asks models to identify the most plausible direct cause of a real-world event from supporting evidence.</p></details></div>
+      </article>
+      <article class="rp-publication">
+        <span class="rp-venue"><span aria-hidden="true" class="okc-track">[08]</span>arXiv 2026</span>
+        <div><h3><a href="https://arxiv.org/abs/2611.07226" target="_blank" rel="noopener noreferrer">Loopback Transformer: Towards a Unified View of Residual Looped Transformers</a></h3>
+        <p class="rp-authors">Xuan Ouyang, Zefan Cai, <strong>Chenlong Zhang</strong>, Cheng Luo, Ke Wan, Junjie Hu</p>
+        <div class="rp-paper-links"><a href="https://arxiv.org/abs/2611.07226" target="_blank" rel="noopener noreferrer">Paper ↗</a></div>
+        <details class="rp-abstract"><summary class="cursor-interaction">Read summary</summary><p>A unified view of residual connections as memory across depth, with a residual design that lets looped Transformers retrieve updates from earlier passes.</p></details></div>
+      </article>
+      <article class="rp-publication">
+        <span class="rp-venue"><span aria-hidden="true" class="okc-track">[09]</span>arXiv 2026</span>
+        <div><h3><a href="https://arxiv.org/abs/2606.26300" target="_blank" rel="noopener noreferrer">The Verification Horizon: No Silver Bullet for Coding Agent Rewards</a></h3>
+        <p class="rp-authors">Binghai Wang, <strong>Chenlong Zhang</strong>, Dayiheng Liu, Jiajun Zhang, Jiawei Chen, Mingze Li, Mouxiang Chen, Rongyao Fang, Siyuan Zhang, Xuwu Wang, Yuheng Jing, Zeyao Ma, Zeyu Cui</p>
+        <div class="rp-paper-links"><a href="https://arxiv.org/abs/2606.26300" target="_blank" rel="noopener noreferrer">Paper ↗</a></div>
+        <details class="rp-abstract"><summary class="cursor-interaction">Read summary</summary><p>A Qwen technical report on four verifier designs and how to balance scalability, faithfulness, and robustness when training coding agents.</p></details></div>
+      </article>
+      <article class="rp-publication">
+        <span class="rp-venue"><span aria-hidden="true" class="okc-track">[10]</span>arXiv 2026</span>
+        <div><h3><a href="https://arxiv.org/abs/2606.15333" target="_blank" rel="noopener noreferrer">Replay What Matters: Off-Policy Replay for Efficient LLM Reinforcement Unlearning</a></h3>
+        <p class="rp-authors">Zirui Pang, <strong>Chenlong Zhang</strong>, Haosheng Tan, Zhuoran Jin, Jiaheng Wei, Zixin Zhong</p>
+        <div class="rp-paper-links"><a href="https://arxiv.org/abs/2606.15333" target="_blank" rel="noopener noreferrer">Paper ↗</a></div>
+        <details class="rp-abstract"><summary class="cursor-interaction">Read summary</summary><p>ReRULE reuses low-reward rollouts from hard cases to improve reinforcement unlearning without spending more on fresh samples for every update.</p></details></div>
+      </article>
     </section>
 
     <span aria-hidden="true" class="rp-anchor" id="-news"></span><section class="rp-section rp-news" id="rp-news" aria-labelledby="rp-news-title">
