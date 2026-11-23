@@ -52,6 +52,7 @@ redirect_from:
         <div><h3><a href="https://arxiv.org/abs/2606.05405" target="_blank" rel="noopener noreferrer">Agents' Last Exam</a></h3>
         <p class="rp-authors">Yiyou Sun, Xinyang Han, Weichen Zhang, et al. (including <strong>Chenlong Zhang</strong>)</p>
         <div class="rp-paper-links"><a href="https://arxiv.org/abs/2606.05405" target="_blank" rel="noopener noreferrer">Paper ↗</a><a href="https://neurips.cc/virtual/2026/poster/139517" target="_blank" rel="noopener noreferrer">Conference ↗</a><a href="https://agents-last-exam.org/" target="_blank" rel="noopener noreferrer">Project Page ↗</a></div>
+        <p class="rp-authors">Featured in launch reporting for <a href="https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1" target="_blank" rel="noopener noreferrer">Alibaba’s Qwen4-Max</a>, <a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/" target="_blank" rel="noopener noreferrer">OpenAI’s GPT-6.2 Astra</a>, and <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/" target="_blank" rel="noopener noreferrer">Google’s Gemini 4 Neon</a>.</p>
         <details class="rp-abstract"><summary class="cursor-interaction">Read summary</summary><p>A benchmark for evaluating AI agents on long-horizon tasks drawn from real work, with outcomes that can be verified.</p></details></div>
       </article>
       <article class="rp-publication">
